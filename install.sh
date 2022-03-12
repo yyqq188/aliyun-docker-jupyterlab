@@ -25,4 +25,3 @@ conda install -y matplotlib
 mkdir -p /root/.jupyter/custom
 wget http://hilpisch.com/custom.css
 mv custom.css /root/.jupyter/custom
-mkdir /root/notebook
